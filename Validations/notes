@@ -1,0 +1,16 @@
+What is need to validations?
+how to perform client side validation?
+What are <input /> validation attributes
+1) required
+2) readonly
+3) disabled
+4) name
+5) id 
+6)min
+7)max
+8)min_length
+9)max_length
+10)pattern 
+11)tabindex
+12)value
+13)placeholder
